@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/ReanSn0w/go-eshop/eshop/models"
-	"github.com/ReanSn0w/go-eshop/eshop/request/parameters"
-	"github.com/ReanSn0w/go-eshop/eshop/request/region"
+	"github.com/ReanSn0w/go-eshop/lib/models"
+	"github.com/ReanSn0w/go-eshop/lib/request/parameters"
+	"github.com/ReanSn0w/go-eshop/lib/request/region"
 )
 
 type EShop struct {
